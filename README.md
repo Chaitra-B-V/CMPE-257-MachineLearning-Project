@@ -1,3 +1,10 @@
 # CMPE-257-MachineLearning-Project
 
-Anamoly Detection Using Blockchain
+
+
+
+1. Project Statement: Anamoly Detection Using Blockchain
+
+2. Dataset: 
+
+3. Article: 
